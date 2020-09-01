@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Study_Of_Pointers", "Study_Of_Pointers\Study_Of_Pointers.vcxproj", "{EB5AAF1C-F809-480D-80C1-9F30487D5B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5AAF1C-F809-480D-80C1-9F30487D5B0D}.Debug|x64.ActiveCfg = Debug|x64
+		{EB5AAF1C-F809-480D-80C1-9F30487D5B0D}.Debug|x64.Build.0 = Debug|x64
+		{EB5AAF1C-F809-480D-80C1-9F30487D5B0D}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB5AAF1C-F809-480D-80C1-9F30487D5B0D}.Debug|x86.Build.0 = Debug|Win32
+		{EB5AAF1C-F809-480D-80C1-9F30487D5B0D}.Release|x64.ActiveCfg = Release|x64
+		{EB5AAF1C-F809-480D-80C1-9F30487D5B0D}.Release|x64.Build.0 = Release|x64
+		{EB5AAF1C-F809-480D-80C1-9F30487D5B0D}.Release|x86.ActiveCfg = Release|Win32
+		{EB5AAF1C-F809-480D-80C1-9F30487D5B0D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {260FB297-B556-4B66-BA8E-32B32DB5C231}
+	EndGlobalSection
+EndGlobal
